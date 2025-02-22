@@ -10,7 +10,7 @@ This Power BI dashboard provides an analytical view of call center operations, h
 
 Agent Performance Tracking 📞
 
-Call Volume Analysis 📊
+Answered & Resolved Call Analysis 📊
 
 Customer Satisfaction Insights 😊
 
